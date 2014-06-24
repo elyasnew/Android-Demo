@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Demo App</string>
+    <string name="hello_world">a demo application to show how the authentication system works</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt1">the Learning Context Project</string>
+    <string name="btn_auth">Click To Authorize</string>
+    <string name="btn_request">Make a request</string>
+
+</resources>
